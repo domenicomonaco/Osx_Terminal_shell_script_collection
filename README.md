@@ -21,6 +21,4 @@ This is simple collection of Terminal shell script for OSx.
 ## Contribute ##
 *Make contribute and add here your name:*
 
-* Domenico Monaco <script data-gratipay-username="kiuzhack"
-        data-gratipay-widget="button"
-        src="//gttp.co/v1.js"></script>
+* Domenico Monaco [![Gratipay Badge](http://img.shields.io/travis/gratipay/gratipay.com/master.svg)](https://gratipay.com/kiuzhack/widgets/)
